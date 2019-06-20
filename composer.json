@@ -4,7 +4,6 @@
     "homepage": "https://github.com/bookitcom",
     "license": "MIT",
     "require": {
-        "codeception/codeception": "^2.2",
         "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
